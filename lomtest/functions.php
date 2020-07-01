@@ -1,4 +1,8 @@
 <?php
+function wpdocs_theme_name_scripts() {
+    wp_enqueue_script( 'script-name', get_template_directory_uri() . '/scripts/general.js', array('jquery'), '1.0', true );
+}
+add_action( 'wp_enqueue_scripts', 'wpdocs_theme_name_scripts', 999 );
 add_action( 'after_setup_theme', 'blankslate_setup' );
 function blankslate_setup() {
 load_theme_textdomain( 'blankslate', get_template_directory() . '/languages' );
@@ -8,7 +12,7 @@ add_theme_support( 'post-thumbnails' );
 add_theme_support( 'html5', array( 'search-form' ) );
 global $content_width;
 if ( ! isset( $content_width ) ) { $content_width = 1920; }
-register_nav_menus( array( 'main-menu' => esc_html__( 'Main Menu', 'blankslate' ) ) );
+register_nav_menus( array( 'main-menu' => esc_html__( 'Main Menu', 'blankslate' ), 'social-menu' => esc_html__( 'Social Menu', 'blankslate' ) ) );
 }
 add_action( 'wp_enqueue_scripts', 'blankslate_load_scripts' );
 function blankslate_load_scripts() {
@@ -114,3 +118,89 @@ return count( $comments_by_type['comment'] );
 return $count;
 }
 }
+
+add_action( 'wp_footer', 'my_action_javascript', 999 ); // Write our JS below here
+
+function my_action_javascript() { ?>
+	<script type="text/javascript" >
+	jQuery(document).ready(function($) {
+		var clicked = 0;
+		$(".post_content").on('mouseover',function (event) {
+			event.preventDefault();
+		    var id_post = $(this).attr('id');
+		    $.ajax({
+		        type: 'POST',
+		        url: '<?php echo admin_url('admin-ajax.php'); ?>',
+		        data: {
+		            'post_id': id_post,
+		            'action': 'f711_get_post_content' //this is the name of the AJAX method called in WordPress
+		        }, success: function (data) {
+		        	if(clicked === 0) {
+		           $('#image-back').attr('src', data.image);
+		           $('#image-back').show();
+		           $( '#content-post-ajax' ).append('<h1 id="title-post">' + data.title + '</h1>' + data.content);
+		           clicked = 1;
+		           }
+		        },
+		        error: function () {
+		            alert("error");
+		        }
+		    });
+		}).mouseout(function (event) {
+			event.preventDefault();
+			$('#image-back').hide();
+		    $( '#content-post-ajax' ).empty();
+		    clicked = 0;
+		});
+	});
+	</script> <?php
+}
+
+add_action( 'wp_ajax_f711_get_post_content', 'f711_get_post_content_callback' );
+add_action( 'wp_ajax_nopriv_f711_get_post_content', 'f711_get_post_content_callback' );
+
+function f711_get_post_content_callback() {
+
+    // retrieve post_id, and sanitize it to enhance security
+    $post_id = intval($_POST['post_id'] );
+
+    // Check if the input was a valid integer
+    if ( $post_id == 0 ) {
+
+        $response['error'] = 'true';
+        $response['result'] = 'Invalid Input';
+
+    } else {
+
+        // get the post
+        $thispost = get_post( $post_id );
+
+        // check if post exists
+        if ( !is_object( $thispost ) ) {
+
+            $response['error'] = 'true';
+            $response['result'] =  'There is no post with the ID ' . $post_id;
+
+        } else {
+
+            $response['image'] = get_the_post_thumbnail_url($thispost,'full');
+            $response['title'] = get_the_title($thispost);
+            $response['content'] = wpautop( $thispost->post_content );
+
+        }
+
+    }
+
+    wp_send_json( $response );
+
+}
+
+function html5_search_form( $form ) { 
+     $form = '<section class="search"><form role="search" method="get" id="search-form" action="' . home_url( '/' ) . '" >
+    <label class="screen-reader-text" for="s">' . __('',  'domain') . '
+     <input type="search" value="' . get_search_query() . '" name="s" id="s" placeholder="" /></label>
+     </form></section>';
+     return $form;
+}
+
+ add_filter( 'get_search_form', 'html5_search_form' );
