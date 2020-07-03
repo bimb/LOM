@@ -1,0 +1,830 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"di",
+				"dispositivos"
+			],
+			[
+				"p",
+				"p-0"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"in",
+				"initial\theight"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"a",
+				"active"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fle",
+				"flex-basis\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ro",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"font-size",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"c",
+				"cover\tobject-fit"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"thumb",
+				"thumbnail"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"ivo",
+				"ivoy_t"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"bakgroun",
+				"background-image"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"com",
+				"complementos"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"suites",
+				"suites-doce18"
+			],
+			[
+				"gues",
+				"gueseis"
+			],
+			[
+				"mich",
+				"michuno"
+			],
+			[
+				"jalc",
+				"jalcinco"
+			],
+			[
+				"agua",
+				"aguascalientes"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"I",
+				"important"
+			],
+			[
+				"light",
+				"lightroom"
+			],
+			[
+				"dining",
+				"dinningroom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"wr",
+				"wrap"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"text-ali",
+				"text-align"
+			],
+			[
+				"si",
+				"Siqueiros"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"va",
+				"valortotal"
+			],
+			[
+				"iva",
+				"ivados"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"fl",
+				"flex-wrap"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"boder-",
+				"border-bottom"
+			],
+			[
+				"Co",
+				"Coatzacoalcos"
+			],
+			[
+				"mazatlan",
+				"Mazatlan"
+			],
+			[
+				"t",
+				"target\tAttr"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"markersS",
+				"markersEstridentistas"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"marker",
+				"markersTodos"
+			],
+			[
+				"otro",
+				"Otros"
+			],
+			[
+				"pinta",
+				"pinta-eu"
+			],
+			[
+				"texr",
+				"text-transform"
+			],
+			[
+				"U",
+				"uppercase"
+			],
+			[
+				"level",
+				"level_3"
+			],
+			[
+				"res",
+				"resetGameComplete"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"ar",
+				"arbol"
+			],
+			[
+				"jamon",
+				"jamonmenu"
+			],
+			[
+				"corona",
+				"coronamenu"
+			],
+			[
+				"pavo",
+				"pavomenu"
+			],
+			[
+				"regal",
+				"regalosmenu"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"tr",
+				"translate()"
+			],
+			[
+				"borde",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 538.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/luissilva1/Documents/lom/lomgit/LOM",
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lomtest"
+	],
+	"file_history":
+	[
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lom.sublime-project",
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lomtest/style.css",
+		"/Users/luissilva1/Documents/cuevas/style.css",
+		"/Users/luissilva1/Documents/dcultural/dcultural/style.css",
+		"/Users/luissilva1/Documents/dcultural/dcultural/footer.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/header.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/page-contenido.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/page-inicio.php",
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lomtest/functions.php",
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lomtest/search.php",
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lomtest/header.php",
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lomtest/index.php",
+		"/Users/luissilva1/Documents/lom/lomgit/LOM/lomtest/page.php",
+		"/Users/luissilva1/Documents/airelibre/airelibre/category.php",
+		"/Users/luissilva1/Documents/airelibre/airelibre/style.css",
+		"/Users/luissilva1/Documents/malula/go/header.php",
+		"/Users/luissilva1/Documents/malula/go/functions.php",
+		"/Users/luissilva1/Documents/fundacionm/godaddy.html",
+		"/Users/luissilva1/Documents/canamiel/search.php",
+		"/Users/luissilva1/Desktop/index.php",
+		"/Users/luissilva1/Desktop/wp-config.php",
+		"/Users/luissilva1/Documents/fundacionm/wp-config.php",
+		"/Users/luissilva1/Documents/RADIO NOPAL/radionopal/index.php",
+		"/Users/luissilva1/Documents/RADIO NOPAL/radionopal/page-archivo.php",
+		"/Users/luissilva1/Documents/RADIO NOPAL/radionopal/style.css",
+		"/Users/luissilva1/Documents/airelibre/airelibre/functions.php",
+		"/Users/luissilva1/Documents/robertoco/startbootstrap-full-width-pics-gh-pages/css/style.css",
+		"/Users/luissilva1/Documents/robertoco/startbootstrap-full-width-pics-gh-pages/index.html",
+		"/Users/luissilva1/Documents/robertoco/startbootstrap-full-width-pics-gh-pages/css/full-width-pics.css",
+		"/Users/luissilva1/Documents/airelibre/airelibre/page-home-video-k.php",
+		"/Users/luissilva1/Documents/triple/lamzo/index.html",
+		"/Users/luissilva1/Documents/airelibre/airelibre/single-shows-apple-music.php",
+		"/Users/luissilva1/Downloads/robertoco/startbootstrap-modern-business-gh-pages/index.html",
+		"/Users/luissilva1/Documents/lom/lom/style.css",
+		"/Users/luissilva1/Documents/canamiel/wp-config.php",
+		"/Users/luissilva1/Desktop/nginx.conf",
+		"/Users/luissilva1/Documents/canamiel/functions.php",
+		"/Users/luissilva1/Desktop/template.conf",
+		"/Users/luissilva1/Documents/canamiel/general.js",
+		"/Users/luissilva1/Documents/canamiel/page-inicio.php",
+		"/Users/luissilva1/Documents/canamiel/style.css",
+		"/Users/luissilva1/Documents/geartotal/variable.php",
+		"/Users/luissilva1/Documents/geartotal/zoo-everest-extract-first 2/everest/woocommerce/single-product/clever-swatches-image.php",
+		"/Users/luissilva1/Desktop/form-login.php",
+		"/Users/luissilva1/Documents/triple/lamzo/js/main.js",
+		"/Users/luissilva1/Documents/dcultural/dcultural/category-canal.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/category-brasil.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/single.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/category.php",
+		"/Users/luissilva1/Documents/triple/lazza/index.html",
+		"/Users/luissilva1/Documents/terminal/header.php",
+		"/Users/luissilva1/Documents/terminal/page.php",
+		"/Users/luissilva1/Documents/terminal/style.css",
+		"/Users/luissilva1/Documents/terminal/footer.php",
+		"/Users/luissilva1/Documents/wp-config.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/functions.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/scripts/general.js",
+		"/Users/luissilva1/Documents/quispe/index.html",
+		"/Users/luissilva1/Documents/dcultural/dcultural/nav-below.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/page.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/entry.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/entry-footer.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/entry-meta.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/entry-summary.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/entry-content.php",
+		"/Users/luissilva1/Documents/dcultural/dcultural/index.php",
+		"/Users/luissilva1/Documents/RADIO NOPAL/radionopal/header.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/category.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/style.css",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/index.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/blankslate/tag.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/archive.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/search.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/tag.php",
+		"/Users/luissilva1/Documents/triple/lamzo/css/style.css",
+		"/Users/luissilva1/Documents/triple/lamzo/contact.php",
+		"/Users/luissilva1/Documents/mensajito/tinymessage/header.php",
+		"/Users/luissilva1/Documents/mensajito/tinymessage/style.css",
+		"/Users/luissilva1/Desktop/dislocada/vendor/autoload.php",
+		"/Users/luissilva1/Desktop/dislocada/application/views/index_page.php",
+		"/Users/luissilva1/Desktop/dislocada/index.php",
+		"/Users/luissilva1/Desktop/dislocada/config.php",
+		"/Users/luissilva1/Desktop/dislocada/application/config/config.php",
+		"/Users/luissilva1/Desktop/dislocada/application/config/database.php",
+		"/Users/luissilva1/Desktop/dislocada/composer.json",
+		"/Users/luissilva1/Desktop/dislocada/system/database/DB_driver.php",
+		"/Users/luissilva1/Desktop/dislocada/database.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/js/general.js",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/functions.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/entry-content.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/single.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/header.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/page-about.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/entry-summary.php",
+		"/Users/luissilva1/Documents/airelibre/airelibre/header.php",
+		"/Users/luissilva1/Desktop/page-the-journal.php",
+		"/Users/luissilva1/Desktop/style.css",
+		"/Users/luissilva1/Documents/airelibre/airelibre/footer.php",
+		"/Users/luissilva1/Documents/mensajito/tinymessage/page.php",
+		"/Users/luissilva1/Documents/airelibre/airelibre/scripts/general.js",
+		"/Users/luissilva1/Documents/triple/lazza/contact.php",
+		"/Users/luissilva1/Documents/dcultural/prueba/index.html",
+		"/Users/luissilva1/Documents/dcultural/prueba/css/main.css",
+		"/Users/luissilva1/Desktop/functions.php",
+		"/Users/luissilva1/Documents/retemex/retemex/style.css",
+		"/Users/luissilva1/Documents/retemex/retemex/page.php",
+		"/Users/luissilva1/Documents/retemex/retemex/header.php",
+		"/Users/luissilva1/Documents/retemex/retemex/footer.php",
+		"/Users/luissilva1/Documents/retemex/retemex/functions.php",
+		"/Users/luissilva1/Documents/06600/css/main.css",
+		"/Users/luissilva1/Documents/06600/index.html",
+		"/Users/luissilva1/Documents/dcultural/css/main.css",
+		"/Users/luissilva1/Documents/dcultural/index.html",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/footer.php",
+		"/Users/luissilva1/Documents/SNB Arquitectos/snb/page.php",
+		"/Users/luissilva1/Documents/veraprimavera/index.php",
+		"/Users/luissilva1/Documents/veraprimavera/scripts/general.js",
+		"/Users/luissilva1/Documents/veraprimavera/page-mapa.php",
+		"/Users/luissilva1/Documents/veraprimavera/style.css",
+		"/Volumes/ADATA HD720/archivos/tamalli/tamalli/style.css",
+		"/Users/luissilva1/Documents/colegio/colegiodesaberes/scripts/general.js",
+		"/Users/luissilva1/Documents/colegio/colegiodesaberes/header.php",
+		"/Users/luissilva1/Documents/colegio/colegiodesaberes/style.css",
+		"/Users/luissilva1/Desktop/page-mapa.php",
+		"/Users/luissilva1/Documents/RADIO NOPAL/radionopal/radionopal/header.php",
+		"/Users/luissilva1/Documents/RADIO NOPAL/radionopal/radionopal/style.css",
+		"/Users/luissilva1/Documents/rf/functions.php",
+		"/Users/luissilva1/Documents/pirwi/pirwi/functions.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 108.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 26.0
+	},
+	"pinned_build_system": "",
+	"project": "lom.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/WWW-ART OF MUSIC_v08/initializr/css/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
